@@ -1,0 +1,1 @@
+print "in example5 PERL"
